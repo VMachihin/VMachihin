@@ -19,7 +19,7 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=VitMachTmb)
+![](https://komarev.com/ghpvc/?username=VitMachTmb&style=plastic)
 
 
 <!--
