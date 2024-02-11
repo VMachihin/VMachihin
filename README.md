@@ -1,7 +1,7 @@
 ### Всем привет. На связи Виталий 👋
 
 ### Изучаю технологии :
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,figma,git,nodejs,express,mongodb,vite,vscode)](https://skillicons.dev)
 
 ---
 
