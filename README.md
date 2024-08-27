@@ -5,7 +5,7 @@
 
 ---
 
-[![codewars](https://www.codewars.com/users/VitMach/badges/large)]
+![codewars](https://www.codewars.com/users/VitMach/badges/small)
 
 ---
 
