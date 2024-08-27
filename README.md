@@ -12,6 +12,8 @@
 ![](https://komarev.com/ghpvc/?username=VitMachTmb&style=plastic)
 
 
+https://www.codewars.com/users/VitMach/badges/large
+
 <!--
 **VitMachTmb/VitMachTmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
